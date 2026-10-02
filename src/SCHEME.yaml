@@ -1,0 +1,187 @@
+# GENERADO AUTOMÁTICAMENTE desde SCHEME.md — NO EDITAR A MANO.
+# Cualquier cambio se perderá en la siguiente ejecución de build.py.
+
+metadata:
+  slug: acciona-pm
+  cliente_u_organizacion: ACCIONA
+  rol_u_oportunidad: Technical Project Manager — gestión de la demanda y enlace negocio-tecnología
+  tipo: oferta-freelance
+  idioma: es
+  fecha: '2026-10-02'
+  cv_pdf: assets/cv-acciona-pm.pdf
+  linkedin_url: https://www.linkedin.com/in/josegalindo/
+  github_url: ''
+  email_contacto: opportunities@josegalindo.net
+  url_publicada: https://proposals.josegalindo.net/Acciona-PM/
+  telefono: +34 682 832 341
+  nombre_completo: José Francisco Galindo Egea
+  credenciales: PMP®
+  id_oportunidad: Acciona-PM
+  titulo_pagina: José Galindo — Technical Project Manager para ACCIONA
+  meta_descripcion: 'Propuesta de José Galindo para el rol de Technical Project Manager en ACCIONA: gestión
+    de la demanda de negocio, coordinación de equipos técnicos y proveedores, y arranque de nuevos proyectos.'
+bloque_candidatura:
+  eyebrow: Propuesta freelance · Technical Project Manager · ACCIONA
+  titulo_candidatura: Convertir la demanda de negocio en proyectos que el equipo técnico adecuado puede
+    entregar.
+  subtitulo_candidatura: 'Una propuesta para el rol de Technical Project Manager en ACCIONA: gestión de
+    la demanda, enlace entre negocio y tecnología, y arranque de nuevos proyectos con proveedores y equipos
+    especializados.'
+  botones:
+  - etiqueta: Por qué encajo →
+    destino: '#motivacion'
+  - etiqueta: Descargar CV
+    destino: cv
+  - etiqueta: LinkedIn
+    destino: linkedin
+subbloque_propuesta:
+  motivacion:
+    titulo: Un rol de enlace entre negocio y tecnología — y esa es exactamente mi forma de trabajar.
+    subtitulo: ''
+    parrafos:
+    - texto: 'La oferta describe un puesto situado entre las áreas de negocio y los equipos de DevOps,
+        desarrollo, datos, despliegues e IA: recibir necesidades muy distintas, entenderlas, darles forma
+        y dirigirlas a quien corresponda, y en los casos que lo requieran montar el proyecto desde cero
+        hasta su puesta en marcha. Es el tipo de coordinación que llevo más de veinte años ejerciendo,
+        siempre con un pie en la tecnología y otro en el negocio.'
+      lede: true
+    - texto: 'Quiero ser claro en un punto: mi trayectoria se ha desarrollado en banca, seguros y telecomunicaciones,
+        no en construcción ni en energía. Lo que aporto es la disciplina de gestión de la demanda, de
+        stakeholders y de proveedores en organizaciones grandes y complejas, que es el núcleo de este
+        puesto; herramientas que ya manejo, como Jira y ServiceNow; y la capacidad de incorporar rápido
+        el contexto de un grupo como ACCIONA. Disponibilidad inmediata, con base en Madrid y modalidad
+        híbrida.'
+      lede: false
+    eyebrow: Motivación
+    etiqueta_nav: ''
+  aportaciones:
+    titulo: Más de veinte años liderando servicios, programas y gobierno TIC en organizaciones grandes
+      y complejas.
+    elementos:
+    - etiqueta: ''
+      subtitulo: Gestión de la demanda y de servicios a escala
+      cuerpo: gobierno diario de un entorno de servicios gestionados por encima de 130.000 horas al año,
+        con la responsabilidad de priorizar, derivar y escalar la demanda hacia el equipo y el proveedor
+        adecuados.
+    - etiqueta: ''
+      subtitulo: Gobierno de programas y stakeholders
+      cuerpo: más de 200.000 horas de delivery gobernadas como PMO en un solo programa (215.000 en el
+        mayor), y más de 500.000 horas acumuladas como PMO en programas corporativos — alineando a negocio,
+        tecnología y dirección mediante planificación, seguimiento y reporting ejecutivo.
+    - etiqueta: ''
+      subtitulo: Coordinación de proveedores
+      cuerpo: responsable ejecutivo de una cuenta multiproveedor de 6,5 M€/año y 75 profesionales, con
+        la rendición de cuentas de cada proveedor frente a sus compromisos como eje de la relación.
+    - etiqueta: ''
+      subtitulo: Delivery en entornos regulados y de datos
+      cuerpo: entrega directa de RDA-BI/BCBS 239, un programa regulatorio transversal de 58.000 horas
+        para una entidad financiera de primer nivel — planificación, plazos y metodología bajo exigencias
+        estrictas de cumplimiento.
+    - etiqueta: ''
+      subtitulo: Herramientas de gestión de la demanda
+      cuerpo: uso de Jira en Mapfre y de ServiceNow en Banc Sabadell para registrar, priorizar y dar seguimiento
+        a la demanda y a los proyectos.
+    - etiqueta: ''
+      subtitulo: Gestión del cambio y uso de IA
+      cuerpo: acompañamiento de la adopción del cambio con las áreas de negocio, y aplicación de IA en
+        la mejora, la automatización y la revisión de mis propios proyectos.
+    parrafo_intro: []
+    nota_final:
+    - Certificado PMP® e ITIL® 4 Foundation. Inglés de trabajo en equipos internacionales (Reino Unido,
+      Estados Unidos, Alemania y México).
+    eyebrow: Qué aporto
+    etiqueta_nav: ''
+  proyecto:
+    titulo: Cómo estructuraría la gestión de la demanda entre negocio y tecnología.
+    problema:
+      subtitulo: El problema
+      cuerpo: 'Un equipo situado entre las áreas de negocio y varios equipos técnicos recibe demanda de
+        naturaleza muy distinta: desde incidencias operativas hasta nuevos proyectos de IA, con un stack
+        cloud en replanteamiento. El riesgo no está en la tecnología en sí, sino en la gestión que la
+        rodea: necesidades mal definidas que llegan al equipo equivocado, áreas de negocio que piden cosas
+        parecidas sin que nadie las una, y proyectos nuevos que arrancan sin alcance, plazos ni responsables
+        claros.'
+    solucion:
+      subtitulo: La solución propuesta
+      cuerpo: 'Un circuito de gestión de la demanda simple y trazable: cada petición se recoge, se clasifica
+        (incidencia, mejora, proyecto), se concreta con el área solicitante y se deriva al equipo adecuado
+        con un alcance acordado. Las necesidades comunes entre áreas se agrupan para atenderlas una sola
+        vez, en coordinación con gobierno del dato. Los proyectos que lo requieren se arrancan con un
+        mínimo de alcance, planificación, proveedores y metodología desde el primer día, y la adopción
+        de nuevas tecnologías se acompaña con las áreas de negocio, no se deja a su suerte tras el despliegue.'
+    arquitectura:
+      flujo: []
+      pie: ''
+      imagen: ''
+      puntos:
+      - etiqueta: Entrada y clasificación de la demanda
+        descripcion: punto único de recogida de necesidades de negocio, clasificadas por tipo y urgencia,
+          con criterio explícito para decidir qué se resuelve por la vía operativa y qué se convierte
+          en proyecto.
+      - etiqueta: Derivación a los equipos técnicos
+        descripcion: cada petición llega a DevOps, desarrollo, datos, despliegues o IA con alcance, responsable
+          y plazo acordados, en lugar de un correo sin cerrar.
+      - etiqueta: Arranque y seguimiento de proyectos
+        descripcion: definición, planificación, plazos y metodología para los proyectos completos, con
+          proveedores coordinados contra sus compromisos y reporting al comité semanal del equipo.
+      - etiqueta: Alineación entre áreas
+        descripcion: necesidades comunes de varias áreas de negocio identificadas y unificadas, junto
+          al equipo de gobierno del dato.
+      - etiqueta: Límite, declarado explícitamente
+        descripcion: esta propuesta gobierna demanda, planificación y coordinación. No se extiende a la
+          decisión de arquitectura cloud (GCP, Azure, AWS) ni a la implementación técnica, que corresponden
+          a los equipos especializados.
+      aclaracion: gobierno de la demanda y del proyecto entre negocio y tecnología — no configuración
+        de plataformas cloud ni desarrollo, que corresponden a los equipos técnicos especializados
+    cita: ''
+    eyebrow: Proyecto · Propuesta
+    etiqueta_nav: Proyecto
+  plan_riesgos:
+    titulo: Un circuito de demanda funcionando desde la primera semana, no descubierto en la primera crisis.
+    primera_semana:
+      subtitulo: Primera semana
+      elementos:
+      - etiqueta: Mapa de stakeholders y equipos
+        descripcion: reuniones con la responsable del área, los equipos técnicos (DevOps, desarrollo,
+          datos, despliegues, IA) y las áreas de negocio con más demanda, para entender quién pide qué
+          y a quién se deriva hoy.
+      - etiqueta: Inventario de la demanda abierta
+        descripcion: recoger y clasificar lo que ya está en curso (incidencias, mejoras, proyectos), identificando
+          duplicidades entre áreas y prioridades de arranque inmediato.
+      - etiqueta: Primer comité de equipo
+        descripcion: participar en el comité semanal de los miércoles con un primer cuadro de demanda
+          y proyectos, y acordar el formato de seguimiento.
+    riesgos:
+      subtitulo: Riesgos
+      elementos:
+      - etiqueta: Demanda heterogénea que satura el circuito
+        descripcion: criterio explícito de clasificación entre incidencia, mejora y proyecto desde el
+          inicio, para que lo operativo no desplace a los proyectos ni al revés.
+      - etiqueta: Stack cloud en replanteamiento (GCP, Azure y AWS en evaluación)
+        descripcion: mantener las peticiones desacopladas de una plataforma concreta y registrar las dependencias
+          técnicas, para que un cambio de stack no invalide el alcance acordado.
+      - etiqueta: Necesidades de negocio solapadas o en conflicto
+        descripcion: unificarlas con gobierno del dato antes de derivarlas, en lugar de duplicar trabajo
+          en equipos técnicos distintos.
+      - etiqueta: Adopción de nuevas tecnologías, incluida la IA, sin acompañamiento al negocio
+        descripcion: incluir el acompañamiento al área solicitante en el alcance de cada proyecto, no
+          solo el despliegue.
+    eyebrow: Plan y riesgos
+    etiqueta_nav: Plan
+  cierre:
+    titulo: Disponible de inmediato para ser el enlace entre negocio y tecnología desde la primera semana.
+    subtitulo: Disponibilidad inmediata, con base en Madrid y en modalidad híbrida, con presencia en oficina
+      los días que se acuerden en la fase inicial. Me encantaría conversar sobre cómo estructuraría la
+      gestión de la demanda y el arranque de proyectos para el equipo.
+    eyebrow: Cierre
+    etiqueta_nav: Contacto
+    botones:
+    - etiqueta: Conectar en LinkedIn
+      destino: linkedin
+    - etiqueta: Escribir un email
+      destino: email
+pie_pagina: José Galindo — Technical Project Manager para ACCIONA
+procedencia:
+  plantilla_base: MICROSITE_TEMPLATE.es.md
+  plantilla_version: '0.4'
+  version_documento: '0.2'
