@@ -1,0 +1,34 @@
+# =====================================================
+# PROJECT METADATA — Git Repository Manager
+# =====================================================
+repository: Acciona-PM
+provider: github
+ssh_alias: github-galindoit
+github_owner: josegalindo-it
+visibility: public
+
+description: Acciona-PM
+category: proposals
+status: active
+language: markdown
+
+created: "2026-09-10"
+updated: "2026-09-10"
+
+default_branch: main
+remote_name: origin
+
+git_identity:
+  name: Jose Galindo
+  email: 327220330+josegalindo-it@users.noreply.github.com
+
+tags:
+  - career-management
+  - governance
+  - proposals
+  - documentation-as-code
+  - professional-system
+  - professional-services
+  - sensitive-data
+
+# git remote add origin git@{ssh_alias}:{github_owner}/{repository}.git
